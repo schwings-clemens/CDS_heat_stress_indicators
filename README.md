@@ -10,6 +10,6 @@ This repository provides the equations that are used to calculate the following 
 <li>Wet-Bulb Globe Temperature</li>
 </ol>
 
-The heat stress indicators were calculated for CMIP6 models and are going to be published on the C3S Climate Data Store (<a href="https://cds.climate.copernicus.eu" target="_blank">).
+The heat stress indicators were calculated for CMIP6 models and are going to be published on the (<a href="https://cds.climate.copernicus.eu/" target="_blank">C3S Climate Data Store</a>).
 
-More details about the heat stress indicators can be found in Schwingshackl et al. (2021, <a href="https://doi.org/10.1029/2020EF001885" target="_blank">).
+More details about the heat stress indicators can be found in Schwingshackl et al. (2021, <a href="https://doi.org/10.1029/2020EF001885" target="_blank"></a>).
